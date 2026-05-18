@@ -8,14 +8,14 @@ Over 30 years experience improving operations and supply chains in various organ
 *	B.S., Oceanography, United States Naval Academy, Annapolis, Maryland
 *	M.B.A., Business Administration, George Mason University, Fairfax, Virginia
 *	M.S.M., Human Resource Management, Univ. of Alabama at Huntsville, Alabama
-*	M.S., Business Analytics, Univ. of Alabama at Huntsville, Alabama *[In Progress: Expected May 2028]*
+* *[In Progress]*	M.S., Business Analytics, Univ. of Alabama at Huntsville, Alabama *[Expected May 2028]*
 
 ## Technology Certifications
 
 ### Current:
-* CompTIA A+ Certified, Candidate ID# COMP001023022247, April 2026 – April 2029
-* CompTIA Network+ Certified, Candidate ID# COMP001023022247, May 2026 – May 2029
-* CompTIA Linux+ *[In Progress: Expected Summer 2026]*
+* CompTIA A+ Certified, Candidate ID# COMP001023022247, April 2026
+* CompTIA Network+ Certified, Candidate ID# COMP001023022247, May 2026
+* *[In Progress]*	CompTIA Linux+ *[Expected Summer 2026]*
 
 ### Expired:
 * Microsoft Certified Systems Engineer (MCSE+I)
@@ -28,11 +28,11 @@ Over 30 years experience improving operations and supply chains in various organ
 * Also delivered workforce training on OSHA safety topics and lean business practices over most of my career.
 
 ## Technology Skills
-* *[Productivity:]* Microsoft Office (Word, Excel, Access, PowerPoint), incl. VBA and Power Query
-* *[Programming:]* Python, R, C, C++, Java, SQL, and ARM Assembly
-* *[Operating Systems:]* Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
-* *[Networking:]* Wired and wireless networking concepts and standards
-* *[Visualization:]* Power BI, Tableau, Probability, Statistics, Modeling & Simulation
+* *<u>Productivity</u>:* Microsoft Office (Word, Excel, Access, PowerPoint), incl. VBA and Power Query
+* *<u>Programming</u>:* Python, R, C, C++, Java, SQL, and ARM Assembly
+* *<u>Operating Systems</u>:* Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
+* *<u>Networking</u>:* Wired and wireless networking concepts and standards
+* *<u>Visualization</u>:* Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 
 ## Graduate CS/IS/IT-Related Courses
 
@@ -48,7 +48,7 @@ Over 30 years experience improving operations and supply chains in various organ
 # CS 553, Client-Server Architectures (3)
 # CS 590, Programming Environment within UNIX (3)
 
-### Planned (12 hours) (Subject to change if employed full-time):
+### Planned (12 hours, Fall 2026, subject to change if employed full-time):
 * CS 524, Programming Languages (3)
 * IS 640, Data Management & Data Mining (3)
 * MSC 550, Introduction to Analytics & Programming (3)
