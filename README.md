@@ -4,11 +4,28 @@ Cullman, Alabama  |  grh0003@uah.edu  |  https://www.linkedin.com/in/glenn-harsh
 ## Professional Summary
 Over 30 years experience improving operations and supply chains in various organizations using database and computer automation skills, coupled with strong focus on lean process improvement and team-building.  Looking to transition into teaching community college and/or high school.  Currently taking graduate-level classes in Computer Science, Information Systems, and Business Analytics.
 
+## Veteran Status
+*	Honorably Discharged, Lieutenant/O-3, United States Navy
+
 ## Education
 *	B.S., Oceanography, United States Naval Academy, Annapolis, Maryland
 *	M.B.A., Business Administration, George Mason University, Fairfax, Virginia
 *	M.S.M., Human Resource Management, Univ. of Alabama at Huntsville, Alabama
 * *[In Progress]*	M.S., Business Analytics, Univ. of Alabama at Huntsville, Alabama *[Expected May 2028]*
+
+## Teaching Experience
+* Adjunct Business Faculty, Mohave Community College, Bullhead City, Arizona
+* Also delivered workforce training on OSHA safety topics and lean business practices over most of my career.
+
+## Teaching Preparation
+* ALSDE AIM ID: GRH-0116-8614
+* Fingerprinting & Background Check completed
+* American Board (ABCTE) Certificate in General Science, August 2025
+* American Board (ABCTE) Certificate in Mathematics, December 2025
+* Praxis Subject Exams Passed:
+  - 5165 Mathematics, Score 198, June 2025
+  - 5652 Computer Science, Score 195, May 2025
+  - 5436 General Science, Score 192, June 2025
 
 ## Technology Certifications
 
@@ -23,16 +40,12 @@ Over 30 years experience improving operations and supply chains in various organ
 * Compaq Master Accredited Systems Engineer (ASE)
 * Oracle Database Operator (DBO)
 
-## Teaching Experience
-* Adjunct Business Faculty, Mohave Community College, Bullhead City, Arizona
-* Also delivered workforce training on OSHA safety topics and lean business practices over most of my career.
-
 ## Technology Skills
-* *<u>Productivity</u>:* Microsoft Office (Word, Excel, Access, PowerPoint), incl. VBA and Power Query
-* *<u>Programming</u>:* Python, R, C, C++, Java, SQL, and ARM Assembly
-* *<u>Operating Systems</u>:* Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
-* *<u>Networking</u>:* Wired and wireless networking concepts and standards
-* *<u>Visualization</u>:* Power BI, Tableau, Probability, Statistics, Modeling & Simulation
+* **Productivity:** Microsoft Office (Word, Excel, Access, PowerPoint), incl. VBA and Power Query
+* **Programming:** Python, R, C, C++, Java, SQL, and ARM Assembly
+* **Operating Systems:** Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
+* **Hardware & Networking:** Wired and wireless networking concepts and standards
+* **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 
 ## Graduate CS/IS/IT-Related Courses
 
@@ -44,9 +57,9 @@ Over 30 years experience improving operations and supply chains in various organ
 * CS 517, Intensive Computing Theory (4)
 
 ### In Progress (9 hours, Summer 2026, will be completed by August 4th):
-# IS 560, Networking & IT Infrastructure (3)
-# CS 553, Client-Server Architectures (3)
-# CS 590, Programming Environment within UNIX (3)
+* IS 560, Networking & IT Infrastructure (3)
+* CS 553, Client-Server Architectures (3)
+* CS 590, Programming Environment within UNIX (3)
 
 ### Planned (12 hours, Fall 2026, subject to change if employed full-time):
 * CS 524, Programming Languages (3)
