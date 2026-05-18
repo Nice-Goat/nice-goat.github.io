@@ -28,13 +28,11 @@ Over 30 years experience improving operations and supply chains in various organ
   - 5436 General Science, Score 192, June 2025
 
 ## Technology Certifications
-
-### Current:
+#### Current:
 * CompTIA A+ Certified, Candidate ID# COMP001023022247, April 2026
 * CompTIA Network+ Certified, Candidate ID# COMP001023022247, May 2026
 * *[In Progress]*	CompTIA Linux+ *[Expected Summer 2026]*
-
-### Expired:
+#### Expired:
 * Microsoft Certified Systems Engineer (MCSE+I)
 * Microsoft Certified Database Administrator (MCDBA)
 * Compaq Master Accredited Systems Engineer (ASE)
