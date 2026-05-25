@@ -1,6 +1,6 @@
 # Glenn R. Harshman
 
-Cullman, Alabama  |  grh0003@uah.edu  |  https://www.linkedin.com/in/glenn-harshman-965888409/
+Cullman, Alabama  |  https://www.linkedin.com/in/glenn-harshman-965888409/
 
 ## Professional Summary
 
