@@ -50,11 +50,12 @@ Over 30 years experience improving operations and supply chains in various organ
 
 ## Technology Skills
 
-* **Productivity:** Microsoft Office (Word, Excel, Access, PowerPoint), incl. VBA and Power Query
-* **Programming:** Python, R, C, C++, Java, SQL, and ARM Assembly
+* **Programming:** Python, R, C, C++, Java, SQL, ARM Assembly
+* **Web Development:** Apache, HTML, CSS, Javascript, Typescript, PHP, PostgreSQL, MySQL
+* **Productivity:** Microsoft Office, Word, Excel, Access, PowerPoint, VBA, Power Query
+* **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 * **Operating Systems:** Windows PowerShell, Debian/Ubuntu Linux, and Raspberry Pi
 * **Hardware & Networking:** Computer upgrade & repairt, wired & wireless networking standards
-* **Visualization:** Power BI, Tableau, Probability, Statistics, Modeling & Simulation
 
 ## Graduate CS/IS/IT-Related Courses
 
@@ -66,15 +67,14 @@ Over 30 years experience improving operations and supply chains in various organ
 * CS 513, Intensive Computer Architecture & Operating Systems (4)
 * CS 517, Intensive Computing Theory (4)
 
-#### In Progress (9 hours, Summer 2026, will be completed by August 4th):
+#### In Progress (9 hours, Summer 2026, will be completed by August 7th):
 
 * IS 560, Networking & IT Infrastructure (3)
 * CS 553, Client-Server Architectures (3)
 * CS 590, Programming Environment within UNIX (3)
 
-#### Planned (12 hours, Fall 2026, subject to change if employed full-time):
+#### Planned (9 hours, Fall 2026, subject to change if employed full-time):
 
-* CS 524, Programming Languages (3)
 * IS 640, Data Management & Data Mining (3)
 * MSC 550, Introduction to Analytics & Programming (3)
 * MSC 560, Introduction to Analytics with AWS (3)
